@@ -94,4 +94,5 @@ li:first-letter {
 #current-location-button {
   color: rgba(3, 52, 249, 0.832);
   background-color: white;
+   border-color: rgba(3, 52, 249, 0.832);
 }
